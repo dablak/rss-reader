@@ -14,7 +14,7 @@ Get it further!
 ---------------
 
 - Improve error checking when retrieving url and when parsing the XML.
-- Parse properly elements. For example the 'image' elements in http://www.aberdeencity.gov.uk/accapps/rss/EventRSS.aspx
+- Parse elements properly. For example the 'image' elements in http://www.aberdeencity.gov.uk/accapps/rss/EventRSS.aspx
 - Detect the RSS version and parse the XML accordingly.
 - Store RSS feed urls and their parsed items in a DB.
 - Retrieve the feeds periodically.
